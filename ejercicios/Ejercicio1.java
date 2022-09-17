@@ -1,6 +1,6 @@
-package ejercicio1;
+package ejercicios;
 
-public class Main {
+public class Ejercicio1 {
     public static void main(String[] args) {
         int entero = 1;
         long tipoLong =1234l;
